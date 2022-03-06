@@ -1,4 +1,4 @@
-# Python-acad-mico-e-interactivo
+# Python-academico-e-interactivo
 
 Curso dictado a los docentes, alumnos de la Facultad de Ingenieria de Sistemas de la Universidad Nacional de Ingenieriae interesados en el tema.
 
